@@ -2,7 +2,7 @@
 
 A portfolio-grade embedded robotics project: a real-time C++ firmware stack for a robotic joint actuator, paired with Python simulation, hardware-in-the-loop testing, system identification, and calibration tooling.
 
-## Why this project exists
+## Motivation
 This repo is designed to demonstrate firmware engineering skills relevant to humanoid robotics:
 
 - Real-time embedded C++ control loops
