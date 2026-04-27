@@ -1,0 +1,8 @@
+name: Firmware Checks
+on: [push, pull_request]
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: echo "TODO: add clang-format, clang-tidy, cppcheck"

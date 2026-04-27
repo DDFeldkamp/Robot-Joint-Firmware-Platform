@@ -1,0 +1,10 @@
+name: robot-joint-fw
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - numpy
+      - matplotlib
+      - pytest
+      - pyserial
+      - scipy

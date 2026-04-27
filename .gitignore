@@ -1,0 +1,12 @@
+build/
+.venv/
+__pycache__/
+*.pyc
+*.o
+*.elf
+*.bin
+*.hex
+*.log
+.DS_Store
+.vscode/
+.idea/
